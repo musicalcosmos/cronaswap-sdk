@@ -76,7 +76,7 @@ export const WETH = {
   ),
   [ChainId.TESTNET]: new Token(
     ChainId.TESTNET,
-    '0x7438ccF10cf40D6346A4B1f1d81987AE128556D6',
+    '0xDd7FBd7e655DE4B8eccb2B3254F6B69B569F0A9a',
     18,
     'WCRO',
     'Wrapped CRO',
